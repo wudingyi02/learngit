@@ -1,7 +1,3 @@
 12345qqqffffzzzz
-<<<<<<< HEAD
 ccc
-=======
-+++++++
 caonima
->>>>>>> 3902fc806aae47c8a5e822bc275838232c2be0c8
